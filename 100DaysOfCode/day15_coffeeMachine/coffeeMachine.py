@@ -1,11 +1,13 @@
 def report():
     """Report available resources left in the coffee machine"""
+    global PROFIT
     for material in RESOURCES:
         amount = RESOURCES[material]
         if material == "Coffee":
             print(f"{material}: {amount}g")
         else:
             print(f"{material}: {amount}ml")
+    print(f"profit: ${round(PROFIT, 2)}")
 
 
 def user_prompt():
@@ -35,9 +37,11 @@ def check_resources(drink):
 
 def check_money(input_coins, cost):
     money_recieved = 0
+    global PROFIT
     for coin_type in MONEY:
         money_recieved += MONEY[coin_type] * input_coins[coin_type]
     change = round(money_recieved - cost, 2)
+    PROFIT = money_recieved - change
     return change
 
 
@@ -86,7 +90,7 @@ payment = {
     "nickles": 0,
     "pennies": 0
 }
-
+PROFIT = 0
 turn_off = False
 while not turn_off:
     beverage = user_prompt()
