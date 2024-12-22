@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ed9d008-b261-45ac-b2ab-03c1368f0ee5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day32_BirthdayWisher/.idea/day32_BirthdayWisher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day32_BirthdayWisher/birthdays.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day32_BirthdayWisher/letter_templates/letter_1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day32_BirthdayWisher/letter_templates/letter_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day32_BirthdayWisher/letter_templates/letter_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day32_BirthdayWisher/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day32_BirthdayWisher/quotes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day32_BirthdayWisher/workshop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/.idea/day33_Workshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/kanye.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/kanyeQuotesApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day33_Workshop/testIssApi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day34_Quizzler/.idea/day34_Quizzler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day34_Quizzler/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day34_Quizzler/images/false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day34_Quizzler/images/true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day34_Quizzler/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day34_Quizzler/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day34_Quizzler/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day34_Quizzler/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day35_WeatherAPI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day35_WeatherAPI/.idea/day35_WeatherAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day35_WeatherAPI/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day35_WeatherAPI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day35_WeatherAPI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day35_WeatherAPI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day35_WeatherAPI/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day36_BloomberTerminal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day36_BloomberTerminal/.idea/day36_BloomberTerminal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day36_BloomberTerminal/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day36_BloomberTerminal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day36_BloomberTerminal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day36_BloomberTerminal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day36_BloomberTerminal/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day37_HabitTracker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day37_HabitTracker/.idea/day37_HabitTracker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day37_HabitTracker/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day37_HabitTracker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day37_HabitTracker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day37_HabitTracker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day37_HabitTracker/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../100DaysOfCode/day38_WorkoutTracker/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2ibbyMREpIElmq3847GwLrxjkbl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.addNums.executor": "Run",
+    "Python.palindromeNumber.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "100DayOfCode__intermediate"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ed9d008-b261-45ac-b2ab-03c1368f0ee5" name="Changes" comment="" />
+      <created>1719762476994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719762476994</updated>
+    </task>
+    <servers />
+  </component>
+</project>
