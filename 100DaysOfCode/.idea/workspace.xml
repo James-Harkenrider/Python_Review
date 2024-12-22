@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="07ca6a80-3f0b-4ba4-8550-8c98df61aabf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day20_21_SnakeGame/.idea/Day20_21_SnakeGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day20_21_SnakeGame/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day20_21_SnakeGame/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day20_21_SnakeGame/score_board.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day20_21_SnakeGame/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22_Pong_MyAttempt/.idea/day22_Pong_MyAttempt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22_Pong_MyAttempt/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22_Pong_MyAttempt/dashed_line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22_Pong_MyAttempt/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22_Pong_MyAttempt/paddle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day22_Pong_MyAttempt/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23_TurtleCrossing/.idea/day23_TurtleCrossing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23_TurtleCrossing/car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23_TurtleCrossing/level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23_TurtleCrossing/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day23_TurtleCrossing/turtle_crosser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/.idea/day24_ImprovedSnakeGame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/scoreboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24_ImprovedSnakeGame/snake.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day19_TurtleRace/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day19_TurtleRace/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2fyXwWxPC4ZlcpDyK9ry81pb3KA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "100DayOfCode__intermediate",
+    "last_opened_file_path": "D:/pythonWork/Python_Review/100DaysOfCode/day24_ImprovedSnakeGame"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="07ca6a80-3f0b-4ba4-8550-8c98df61aabf" name="Changes" comment="" />
+      <created>1714774529861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714774529861</updated>
+    </task>
+    <servers />
+  </component>
+</project>
